@@ -1,2 +1,2 @@
-# Etosha-National-Park-Portal
-This repository contain the code of Etosha National Park Web Portal that was developed as part of my Master Thesis.
+# Geotagged Image Extraction Python Script
+This repository contain the code of python script that was used during the acquisition of geotagged images as part of my Master's Thesis. This Python script used Flickr photo search API to extract geotagged images from the Flickr Platform. This script that was used in the geotagged image extraction process was acquired from the GIS learning platform that can accessed from this link(https://fivequestionz.home.blog/2020/07/30/how-to-map-the-photo-location-of-flickr-using-python-and-qgis/), and the script was enhanced according to the study area, period of geotagged images, and some additional parameters for the API request. 
